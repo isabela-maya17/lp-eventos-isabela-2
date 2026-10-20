@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-tomato: #dc2626;
+  --color-brand-leaf: #16a34a;
+  --color-brand-cream: #fefce8;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f8fafc; /* Fundo cinza claro idêntico ao da Feira do Livro */
+}
